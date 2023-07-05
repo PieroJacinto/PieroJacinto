@@ -2,7 +2,7 @@
 
 Soy desarrollador web full stack, creativo y responsable, con capacidad de liderazgo, de rapido aprendizaje y adaptable a los cambios. Me encuentro en búsqueda de nuevos desafíos en una empresa que me permita potenciar mi desarrollo profesional.
 
-Tengo conocimientos de Node JavaScript, Python, React, Flask, Django, Vue,  HTML, MySQL, CSS,Express, Sequelize, Git, Bootstrap, AWS, Metodologias ágiles -SCRUM, VS-Code, Postman, Patrón de arquitectura MVC y creación y consumo de APIs. 
+Tengo conocimientos de Node, JavaScript, Python, React, Flask, Django, Vue,  HTML, MySQL, CSS,Express, Sequelize, Git, Bootstrap, AWS, Metodologias ágiles -SCRUM, VS-Code, Postman, Patrón de arquitectura MVC y creación y consumo de APIs. 
 
 Estudie desarrollo web fullstack en Digital House. aqui pueden ver el e-commerce de servicios que realize con todo lo aprendido alli, deplegado en AWS: https://www.reparaya.tk/
 
