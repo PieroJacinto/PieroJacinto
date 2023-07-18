@@ -1,4 +1,4 @@
-👋🏻 Hola!! Mi nombre es Piero y vivoen Capital Federal, Argentina 👋🏻
+👋🏻 Hola!! Mi nombre es Piero y vivo en Capital Federal, Argentina 👋🏻
 
 Soy desarrollador web full-stack, con conocimientos tanto en front-end como en back-end, creativo y responsable, con capacidad de liderazgo, de rapido aprendizaje y adaptable a los cambios. Me encuentro en búsqueda de nuevos desafíos en una empresa que me permita potenciar mi desarrollo profesional.
 
